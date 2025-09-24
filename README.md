@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=pserrod869)](https://github.com/pserrod869/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pserrod869)](https://github.com/SrGobi/github-readme-stats)
+
+
