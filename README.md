@@ -4,7 +4,7 @@ Apasionado por tecnologias. Me gusta construir cosas que resuelvan problemas rea
 
 ### ⏳ Actualmente
 
-- 🔭 Estudiando: Informatica de aplicaciones web
+- 🔭 Estudiando: Informatica de aplicaciones web (DAW)
 - 🌱 Aprendiendo: A programar con diferentes tipos de programas
 - 🤝 Buscando colaborar en: proyectos de programacion
 - 🎮 Me gusta: Los videojuegos, Series/Peliculas, leer comics, etc. 
